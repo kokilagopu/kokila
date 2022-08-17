@@ -10,7 +10,7 @@ else {
 	System.out.println(" dont eat something");
 
 }
-
+System.out.println("---------------------");
 	}
 
 }
